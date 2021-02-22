@@ -2,8 +2,7 @@
 
 ###### ### 个人学习整理，仅供参考
 
-+ ####  [安装github](.\安装git软件.md)
-
++ ####  [安装github](.\安装git软件.md)  [下载](https://git-scm.com/downloads)
 
 ### 指令获取OpenSSH Key
 
